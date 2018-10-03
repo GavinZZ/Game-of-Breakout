@@ -1,4 +1,4 @@
-Assignment One Readme
+README
 
 Welcome to the Game of Breakout. This game is designed and implemented by Yuanhao Zhang, with student ID 20658228.
 In the splash screen, there are a few different modes, including normal mode, hard mode, impossible mode, and test(TA) mode.
